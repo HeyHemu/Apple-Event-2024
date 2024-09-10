@@ -1,0 +1,1600 @@
+0:05
+♪ ♪ - There he is. - [laughs] ♪ ♪
+0:28
+♪ ♪
+0:47
+♪ ♪
+1:05
+♪ ♪
+1:23
+♪ ♪
+1:41
+♪ ♪
+1:59
+♪ ♪
+2:31
+Tim Cook: Good morning! Welcome to Apple Park! Today we're going to talk about Apple Watch, AirPods, and iPhone,
+2:39
+and the profound impact these products are making in our lives. Thanks to their advanced technologies and seamless integration of hardware,
+2:47
+software, and services, they deliver experiences powerfully and intuitively, helping us stay healthy, connected, productive, and entertained.
+2:58
+For years, artificial intelligence and machine learning have been essential
+3:04
+in delivering so many of the features and experiences you love. In June, we launched Apple Intelligence,
+3:11
+our powerful new personal intelligence system, which will have an incredible impact.
+3:18
+Today, we have exciting announcements to share about Apple Watch and AirPods.
+3:24
+And we are thrilled to introduce the first iPhones designed from the ground up for Apple Intelligence and its breakthrough capabilities.
+3:33
+Let's start with Apple Watch. Apple Watch has deeply impacted the lives of millions of people around the world.
+3:41
+It's helped them stay active, healthy, and connected right from their wrist, and it's helped save countless lives along the way.
+3:49
+I receive messages every day from users telling me how Apple Watch makes their lives better, in ways both big and small.
+3:59
+The impact Apple Watch has made on so many people around the world is the result of constant innovation.
+4:07
+Every year, we add features and capabilities that not long ago would have seemed impossible to fit into a single device,
+4:15
+let alone one small enough to wear on your wrist! Today we're building on the advanced technologies
+4:22
+pioneered with Apple Watch to make it even more useful, essential, and intelligent.
+4:28
+And we're doing it all in this beautiful new design.
+4:33
+♪ ♪
+4:51
+♪ ♪
+5:08
+♪ ♪
+5:21
+Introducing Apple Watch Series 10, with our biggest display and thinnest design ever!
+5:27
+Here's Jeff to tell you all about it. ♪ ♪
+5:43
+Jeff Williams: Apple Watch is an indispensable companion, and the display is central to everything you do with it.
+5:50
+From discreetly checking the time, to scanning a notification, to a quick glance at your workout metrics,
+5:56
+how easily you can read the screen is crucial. That's why, for Series 10, we developed the largest
+6:04
+and most advanced display ever for Apple Watch. It's the biggest wearable display we've ever built,
+6:10
+even slightly bigger than Apple Watch Ultra! And compared to previous generations, it has up to 30% more screen area!
+6:19
+With a larger screen, you can increase the font size without sacrificing content. And you can see an additional line of text in apps like Messages, Mail, or News.
+6:30
+It also makes it easier to type a message, enter your passcode, or pause your workout.
+6:36
+Both the display and the case have more rounded corners and a wider aspect ratio,
+6:41
+which makes Series 10 appear softer, sleeker, and more streamlined. The front crystal of Series 10 is made of durable Ion-X glass,
+6:50
+and extends further down the sides of the case, creating an expansive top view.
+6:56
+Under the front crystal is Apple's first-ever Wide-angle OLED Display.
+7:03
+Each pixel has been optimized to emit more light at wider angles.
+7:08
+Often, you look at your watch from an angle, like while you're walking, typing on a keyboard, or when your hand is resting in your lap.
+7:16
+So we made the display on Series 10 up to 40% brighter when viewed from an angle, which improves visibility
+7:24
+and makes it easier to read your watch with a quick glance. We also developed Wide-angle OLEDs to be extremely power efficient,
+7:33
+which allows the display to update once a second in Always-On mode, instead of just once a minute.
+7:39
+Now, a ticking seconds hand is visible even when your wrist is down.
+7:44
+It makes Series 10 feel more alive, all of the time. You can see the effect on Flux, a bold new watch face
+7:52
+that takes full advantage of the large display, filling the screen with color second by second.
+7:58
+It was designed to complement Series 10's new aluminum finishes, starting with Jet Black!
+8:05
+It's our first-ever polished aluminum finish for Apple Watch. This deep, glossy black was developed specifically for Series 10.
+8:15
+The case is made from our durable aluminum alloy and polished using silica nanoparticles
+8:21
+until the surface achieves a reflective shine. Then it goes through a 30-step anodization process,
+8:30
+which bonds organic dye to the housing at a molecular level.
+8:35
+Joining Jet Black is a beautiful, warm Rose Gold, along with our ever-popular Silver aluminum.
+8:42
+The comfort of Apple Watch is so important because you wear it day and night.
+8:48
+For anything you wear continuously, comfort is a function of size, shape, and weight.
+8:54
+And on your wrist, every millimeter and every gram matters. That's why we pushed the limits of technology
+9:01
+to make Series 10 the thinnest Apple Watch ever! At just 9.7 mm, it's nearly 10% thinner than Series 9,
+9:10
+a significant reduction considering how compact Apple Watch already is. Achieving this radically thinner profile required further miniaturization
+9:19
+of several already tiny internal modules like the SiP, Digital Crown, and speaker.
+9:26
+The speaker system was completely re-engineered to be 30% smaller without any compromise to acoustic performance.
+9:34
+And, for the first time on Apple Watch, you can play media like music or podcasts directly through the speaker.
+9:41
+It's great for when you don't have your AirPods handy. Also contributing to Series 10's thinner design is an innovative metal back
+9:49
+that fully integrates the antenna into the housing itself, combining two layers into one.
+9:55
+A thin isolation split encircles the metal back for great cellular performance.
+10:02
+And it's bonded to a watertight layer that maintains 50-meter water resistance, so you can still shower, swim, and surf.
+10:10
+The new metal back also accommodates a larger and more efficient charging coil,
+10:15
+making Series 10 the fastest-charging Apple Watch ever! In just 30 minutes, you can get up to 80% battery,
+10:24
+making it easier to charge your watch whenever it fits into your day. The smaller speaker, metal back, and other innovations
+10:32
+make Series 10 not only thinner but also lighter weight.
+10:37
+Aluminum cases weigh up to 10% less than the previous generation. And we're introducing another lightweight material
+10:45
+in a gorgeous new finish, polished Titanium. This year, Grade 5 Titanium replaces stainless steel.
+10:53
+With Titanium's remarkable strength-to-weight ratio, Series 10 weighs almost 20% less than the stainless steel Series 9.
+11:02
+The case is made of aerospace-grade Titanium that's polished to a mirror-like shine, then PVD-coated
+11:10
+in one of three stunning colors: Natural, Gold, and a dark Slate Gray.
+11:16
+And we've updated the elegant Milanese Loop and classic Link Bracelet to perfectly match the Titanium finishes.
+11:24
+The uninterrupted lines of case, back, and watch band celebrate the beauty of metal.
+11:30
+To complete the metallic look, the Reflections face has an intricate, shimmering dial that reacts subtly to your movements
+11:38
+and transitions gracefully to Always-On mode. The sleek shape, expansive display, sapphire front crystal,
+11:46
+and sophisticated finishes make Series 10 the most refined expression of Apple Watch yet.
+11:53
+Titanium Series 10 joins the lineup as our next carbon neutral product!
+11:59
+It's made with 95% recycled titanium and manufactured with 100% renewable electricity.
+12:06
+And to reduce emissions from transportation, we prioritize non-air shipping.
+12:12
+Of course, inside Series 10 is custom Apple silicon, which powers all the incredible capabilities of every Apple Watch.
+12:21
+The new S10 SiP is designed for performance, power efficiency, and intelligence.
+12:27
+Its 4-core Neural Engine quickly processes machine learning tasks and uses advanced transformer models to power the intelligent features
+12:35
+you already use every day, like double tap, on-device Siri, dictation, and automatic workout detection.
+12:43
+Plus, it enables Crash Detection and Fall Detection, which uses machine learning to identify the motion signatures
+12:50
+and impact forces that occur during slips, trips, and falls. And, to improve phone calls, Series 10 uses a new neural network
+13:00
+to suppress background noise, so you sound clear and crisp on the other end, even in noisy environments
+13:07
+like a crowded restaurant, city street, or windy day. watchOS 11 brings even more intelligence to Apple Watch.
+13:15
+Now, the Smart Stack automatically adds new widgets right when you need them.
+13:20
+The new Photos face uses machine learning to identify, score, and curate the best photos from your library.
+13:28
+And the Translate app comes to Apple Watch, using machine learning for speech recognition
+13:33
+and rapid translation. Of course, intelligence powers many of the health features on Apple Watch as well.
+13:40
+Here's Sumbul to tell you more. ♪ ♪
+13:52
+Dr. Sumbul Ahmad Desai: With the compact design of Series 10, plus the fastest charging ever, it's so easy to wear your Apple Watch day and night,
+13:59
+unlocking insightful and intelligent features for your health. Your Apple Watch can remind you to take your medications
+14:06
+and alert you to loud environments that could impact your hearing. It can also notify you if your heart shows signs of atrial fibrillation,
+14:13
+and we hear stories nearly every day about the impact these irregular rhythm notifications have had
+14:20
+in helping users seek and receive critical care. While you're sleeping, Apple Watch can measure wrist temperature
+14:27
+to detect when you likely ovulated, identify changes in your daily health status with the new Vitals app,
+14:33
+and determine how much time you spend in each sleep stage. And now, Series 10 can also alert you to a major health condition
+14:41
+that impacts over a billion people worldwide: sleep apnea.
+14:46
+It's a potentially serious condition where breathing stops repeatedly and causes disrupted sleep.
+14:52
+Sleep plays such a vital role in our overall health and well-being, and people with sleep apnea can experience excessive daytime tiredness,
+15:00
+have difficulties concentrating, and be more irritable. If left untreated, sleep apnea can also have
+15:07
+significant consequences on your health, including increased risk of hypertension, type 2 diabetes, and cardiac issues.
+15:15
+But one of the biggest challenges is that 80% of people with sleep apnea are undiagnosed,
+15:20
+so they don't know they have the condition. To detect sleep apnea, Apple Watch uses the accelerometer
+15:26
+to monitor a new metric during sleep called Breathing Disturbances. You can view your nightly values in the Health app,
+15:33
+which can also help you understand the restfulness of your sleep. Every 30 days, Apple Watch will analyze your Breathing Disturbance data
+15:40
+and notify you if it shows consistent signs of moderate to severe sleep apnea.
+15:46
+As always, your data is secured in the Health app, which will tell you when sleep apnea may have occurred
+15:51
+and provide education on the importance of speaking with your healthcare provider, plus a detailed report to support that conversation.
+15:59
+The detection algorithm was developed using advanced machine learning with an extensive data set of clinical-grade sleep apnea tests.
+16:06
+It was then validated in a clinical study, unprecedented in size for sleep apnea technology.
+16:12
+We are so excited about the incredible impact this feature can make for the millions of people living with undiagnosed sleep apnea.
+16:20
+We expect clearance from the FDA and other regulators very soon, with availability in over 150 countries and regions this month,
+16:28
+including the U.S., Europe, and Japan. In addition to Series 10, sleep apnea notifications will
+16:34
+also be available on Series 9 and Ultra 2. Like health, fitness is one of the core benefits of Apple Watch.
+16:40
+To tell you more about what's new, here's Julz. ♪ ♪
+16:52
+Julz Arney: Apple Watch helps keep you active. The Activity rings motivate millions of people every day
+16:58
+to take a walk, hit the gym, or go for a ride. And the redesign of Series 10 makes it even better for workouts.
+17:06
+Runners, cyclists, and athletes of all kinds will appreciate the lighter weight. And it's easy to read your workout metrics on the bigger display.
+17:15
+This year, Series 10 gets a built-in depth gauge and a water temperature sensor, making it even better for activities in and around the water.
+17:24
+The Depth app launches automatically when submerged, allowing you to see depth to 6 meters, or about 20 feet,
+17:31
+along with water temperature, which is also visible in the Workout app for pool and open water swims.
+17:38
+These new capabilities make Series 10 perfect for snorkeling, a popular way to explore the underwater world.
+17:44
+This year, Huish Outdoors is bringing their Oceanic+ app to Series 10
+17:49
+with features designed specifically for snorkeling, like the ability to track time, max depth,
+17:55
+direction, and other metrics underwater. For activities like surfing, fishing, or simply playing in the waves,
+18:03
+we're introducing the Tides app in watchOS 11. It shows seven days of information including rising, falling,
+18:10
+high and low tides, sunrise and sunset. And there's data for coastlines all over the world.
+18:17
+For kayakers, canoers, and rowers, the Workout app now shows distance, speed, and gives you a route map.
+18:24
+And with the Paddle Logger app, you can create a float plan and rely on haptic feedback from your Apple Watch to stay on course.
+18:32
+Series 10 is great for all of your fitness activities. And the addition of depth, water temperature,
+18:39
+and the Tides app make it even better for your aquatic adventures, too. Now, back to Jeff.
+18:48
+Jeff: That's Apple Watch Series 10! It's the thinnest Apple Watch ever, with our largest and most advanced display
+18:55
+in a sleek, lightweight, all-metal case that comes in gorgeous new finishes of aluminum and polished titanium.
+19:03
+The design of Series 10 is truly a milestone of watchmaking. It has the powerful S10 SiP
+19:10
+and a breakthrough new sleep apnea feature. Series 10 is our fastest-charging watch yet
+19:16
+with all-day 18-hour battery life. New depth and water temperature sensors make it great for water activities.
+19:23
+It includes the intelligent new features of watchOS 11 and it looks fantastic with this year's watch bands,
+19:30
+with bold colorways from Nike and refined new styles from Hermès.
+19:35
+We can't wait for you to experience how great Series 10 feels on your wrist.
+19:42
+Apple Watch Series 10 starts at $399. You can pre-order starting today,
+19:47
+and it will be available on September 20. Next, let's talk about Apple Watch Ultra.
+19:55
+Ultra is the most rugged and capable Apple Watch, with all of the powerful and intelligent features
+20:00
+that help keep you connected, healthy, and safe, and it's also the ultimate sports watch.
+20:07
+Here's Stan to tell you more. ♪ ♪
+20:19
+Stan Ng: Ultra is the perfect companion for athletes. It has great battery life to last through an Ironman,
+20:25
+an Action Button for precise workout control, and a depth gauge for scuba.
+20:31
+Plus with dual-frequency GPS and advanced positioning software, Ultra delivers the most accurate GPS in a sports watch.
+20:40
+Ultra has the metrics, views, and experiences runners need like Custom Workouts, Heart Rate Zones, pacing features,
+20:48
+and even an industry-first automatic running track detection. And the new Training Load feature provides helpful insights
+20:55
+to make it easier for you to smartly plan when to push and when to recover, especially if you are training or preparing for a race.
+21:03
+Ultra is also great for cyclists. In addition to distance, speed, elevation, and heart rate,
+21:11
+cyclists can easily view their workout as a Live Activity on iPhone or connect power meters to Ultra for more metrics and experiences
+21:19
+like cadence and Power Zones. Apple Watch Ultra helps you get the most out of your swim workouts
+21:25
+with features like automatic stroke detection and lap count. watchOS 11 brings Custom Workouts to pool swims.
+21:32
+It tracks your intervals, guides you through your current segment, and gives you a snapshot of what's next.
+21:39
+Ultra is also perfect for hiking, whether it's a day trip or a long trek.
+21:44
+Along with the advanced Compass app that includes latitude, longitude, waypoints, and Backtrack,
+21:50
+watchOS 11 supports offline maps, complete with custom route creation and turn-by-turn directions,
+21:57
+to use when your iPhone isn't nearby or powered on. And Apple Watch Ultra is the best sports watch
+22:03
+for so many more activities, like when you're out golfing, on the slopes skiing or snowboarding,
+22:09
+or enjoying the ocean diving, surfing, or rowing. It also delivers all of the other core features of Apple Watch
+22:17
+that keep you active, healthy, connected, and safe. This fall, we're excited to bring a stunning new finish to Ultra.
+22:28
+♪ ♪
+22:40
+♪ ♪
+22:49
+Ultra 2 is now available in a gorgeous, satin Black. This incredible deep, dark finish is achieved
+22:56
+through a custom blasting process. The diamond-like carbon PVD coating was specifically formulated
+23:02
+to make the surface extremely scratch resistant and durable. Every Ultra case is made with 95% recycled grade 5 Titanium.
+23:12
+It's the same material used by the aerospace industry. And there is a beautiful matching dark zirconia back crystal.
+23:20
+Completing this new look are updated bands with matching Black Titanium hardware.
+23:25
+We're also excited to introduce a new Ultra band, the Titanium Milanese Loop.
+23:31
+Inspired by stainless steel mesh historically used by divers, this new band is made from corrosion-resistant Titanium
+23:39
+and designed for scuba. Titanium wire is woven, flattened, and polished
+23:44
+to create a smooth surface that wraps fluidly around your wrist. The parachute-style buckle has dual side-release buttons
+23:52
+that close with an audible click. And like all Ultra bands, it's designed to stay securely on your wrist.
+23:59
+It's surprisingly lightweight, and elegant enough for any occasion. Available in both Natural and Black,
+24:05
+the Titanium Milanese Loop joins new colors of the Trail Loop, Alpine Loop, and Ocean Band.
+24:12
+And this year, we're extending our partnership with Hermès to Ultra. The new En Mer band is made of a high-density 3D knit,
+24:20
+with a Titanium buckle designed for water sports. And the exclusive Hermès Maritime watch face
+24:26
+features high-visibility numerals, and the Action button launches a sailing-inspired countdown timer.
+24:33
+That's Apple Watch Ultra 2. Now back to Jeff.
+24:39
+Jeff: Apple Watch Ultra 2 is our most rugged and capable Apple Watch with a durable Titanium case and sapphire front crystal.
+24:48
+Now in a stunning black with a matching Milanese Loop, it includes the intelligent features of watchOS 11.
+24:56
+Ultra is the ultimate sports and adventure watch, with powerful capabilities for runners, cyclists, swimmers, hikers,
+25:04
+and athletes of all types. Apple Watch Ultra 2 starts at $799.
+25:09
+You can pre-order starting today, and it will be available on September 20.
+25:15
+Apple Watch Ultra 2 joins the completely redesigned Apple Watch Series 10
+25:20
+and the popular Apple Watch SE. We couldn't be more excited about the Apple Watch lineup for 2024
+25:28
+and the continued impact it will have on users' lives. And this year, any Apple Watch in any finish can be carbon neutral,
+25:37
+giving you even more choice with a lower carbon impact. It's one more step towards Apple 2030,
+25:44
+our commitment to be carbon neutral across our entire footprint. Back to Tim.
+25:54
+Tim: These are the most beautiful and capable watches we've ever created.
+25:59
+Now, let's talk about AirPods. AirPods forever changed what we imagined great headphones could be.
+26:07
+They are the most loved and most popular headphones in the world. AirPods provide an incredible audio experience
+26:15
+and are magically easy to use. This year, we have significant updates across the entire lineup.
+26:23
+So let's start off with the new generation of AirPods. ♪ ♪
+26:45
+♪ ♪ Introducing AirPods 4.
+26:51
+Here's Kate to tell you more. ♪ ♪
+27:01
+Kate Bergeron: AirPods 4 build on the original industry-defining design loved by millions of people
+27:06
+to set an entirely new bar for fit and comfort. The geometry of our ears is unique to each one of us.
+27:14
+And creating one shape that naturally fits people around the world is a significant challenge.
+27:20
+We used advanced modeling tools like 3D photogrammetry and laser topography to build an unparalleled data set.
+27:28
+We precisely mapped and analyzed thousands of ear shapes, generating over 50 million individual data points.
+27:36
+This helped us refine the design to create our most comfortable AirPods ever.
+27:42
+These also have incredible technology powered by the H2 chip,
+27:47
+which is the most advanced in the industry, unlocking experiences only Apple silicon can deliver.
+27:54
+That starts with a massive improvement in audio quality thanks to a new acoustic architecture.
+28:00
+With richer bass and crystal-clear highs, these are the best-sounding AirPods ever,
+28:05
+in this open-ear design. And that includes Personalized Spatial Audio,
+28:11
+which surrounds you with sound and transforms music, movies, and games with our most immersive media experience.
+28:18
+AirPods are also perfect for taking calls hands-free, and machine learning makes this experience even better.
+28:26
+When interacting with Siri, you can simply nod your head "yes" or shake your head "no" in response to Siri announcements.
+28:33
+And for clearer call quality for whomever you're speaking to, Voice Isolation instantly removes the background noise around you
+28:42
+no matter your environment. Siri: Call from Francis Luke. Answer it?
+28:47
+- Hey, just give me a minute. Yeah, the girls are practicing in the garage. - I hear you perfectly. - You're not hearing that?
+28:54
+'Cause they are loud. Oh, yeah. Kate: In addition, with a quick press on the force sensor,
+29:01
+you have even more control to play or pause music, and to mute or end calls.
+29:08
+To make these AirPods even more convenient to charge and carry with you everywhere you go,
+29:14
+the charging case has USB-C, and we've made it the smallest, most portable case ever for AirPods,
+29:21
+while delivering up to 30 hours of total battery life. Now, for those who are looking for even more advanced performance
+29:29
+in this style of AirPods we created a second model, inspired by some of the most impactful features of AirPods Pro.
+29:38
+We're excited to bring Active Noise Cancellation to this AirPods design for the first time.
+29:45
+With upgraded microphones, the power of the H2 chip, and advanced computational audio,
+29:51
+these AirPods will help to reduce environmental noise– like airplane engines and city traffic–
+29:58
+so you can have a great listening experience at even lower volumes, without sacrificing sound quality.
+30:07
+We're also adding our industry-leading Transparency mode, which provides the most natural way to hear the environment around you,
+30:14
+exactly as it sounds. With the introduction of listening modes to these AirPods,
+30:20
+it was important to include the magic of Adaptive Audio, which automatically reduces noise for you as the environment changes,
+30:29
+so you don't need to switch modes when you're moving from a quiet area to a noisy one.
+30:34
+And to make it even easier to engage with those nearby while wearing AirPods,
+30:39
+Conversation Awareness will help to seamlessly lower your media volume when you start talking to someone.
+30:47
+- Hey, Javi. How's your morning going? - Hey, Michelle. - Um, can I get... Kate: And bring it back when you're done.
+30:53
+- You got it. ♪ ♪ Kate: For even more convenience,
+30:59
+we've also added wireless charging to this charging case. You can use Apple Watch or Qi-certified chargers,
+31:06
+and we've added a speaker to the case for help with Find My. These new models are the best open-ear AirPods we've ever built,
+31:14
+with game-changing audio performance powered by advanced machine learning that enables Personalized Spatial Audio and Active Noise Cancellation,
+31:23
+with Voice Isolation, Siri Interactions, and so much more.
+31:29
+We've also removed the outer plastic wrap, utilized 100% fiber-based materials,
+31:35
+and reduced the packaging by more than 30% to help decrease our emissions from shipping
+31:40
+and move closer to our commitment of becoming carbon neutral by 2030.
+31:45
+The next-generation AirPods 4 are just $129, and AirPods 4 with Active Noise Cancellation are $179.
+31:54
+You can pre-order them today, and they will be available on September 20. Next, with an exceptionally crafted over-the-ear design,
+32:03
+there's AirPods Max, which people around the world absolutely love.
+32:09
+Featuring the highest-fidelity sound quality and amazing Active Noise Cancellation, AirPods Max deliver the ultimate personal listening experience.
+32:18
+We're excited to introduce beautiful new colors in Midnight, Blue, Purple, Orange, and Starlight,
+32:25
+along with USB-C, making AirPods Max even more convenient to charge.
+32:30
+And with iOS 18, the listening experience gets even better with Personalized Spatial Audio for music, movies, and games.
+32:39
+AirPods Max are still $549. They can be pre-ordered today and will also be available on September 20.
+32:47
+These are the breakthrough new AirPods 4 and updated AirPods Max.
+32:52
+Now, let's talk about our most popular and the single best-selling headphone in the world,
+32:59
+AirPods Pro. This design with ear tips provides an incredible audio experience
+33:05
+that includes pro-level Active Noise Cancellation, a crystal-clear Transparency mode,
+33:11
+and the longest battery life. And now, we're adding profound new benefits
+33:16
+that can expand the role AirPods play in our lives. Here's Sumbul to tell you more.
+33:23
+Sumbul: At Apple, we believe that technology can help you live a healthier life. And we're excited to enable incredible new health capabilities
+33:32
+for people around the world with AirPods Pro. Hearing is an essential part of how so many of us communicate
+33:39
+and experience the people and the world around us. But hearing loss can significantly affect these important experiences
+33:46
+and relationships, impacting your quality of life. The World Health Organization estimates
+33:52
+that more than 1.5 billion people are living with hearing loss. If left unaddressed, this can affect your short- and long-term health,
+34:01
+including increased risk of cognitive decline, falls, and social isolation,
+34:06
+which contributes to depression. And all of these factors can impact your longevity as well.
+34:13
+Over the last several years, we've developed important building blocks in this space with the Noise app on Apple Watch,
+34:19
+headphone audio exposure on iPhone, and the Apple Hearing Study– with over 160,000 participants, it's one of the largest studies of its kind.
+34:29
+Through this work we've gained deeper insights into the issues surrounding hearing health,
+34:34
+which inspired us to do even more. So today, we're introducing three major health features
+34:41
+for AirPods Pro 2, focused on prevention, awareness, and assistance.
+34:47
+Let's start with prevention. One in three people are regularly exposed to environmental noise levels
+34:53
+that could impact their hearing. To put this into perspective, there are all kinds of sounds that can be concerning in daily life.
+35:00
+Whether that's commuting, mowing the lawn at home, or when you're headed to that next event.
+35:08
+The more you're exposed, the more it can impact your hearing. To help our users minimize their exposure,
+35:14
+we're adding Hearing Protection to AirPods Pro, on by default, across listening modes.
+35:20
+The ear tips help to provide passive noise reduction. Whether you're attending a live show or playing at the show,
+35:27
+machine learning on the H2 chip actively reduces louder, more intermittent noise at 48,000 times per second.
+35:37
+Hearing Protection can help you across a variety of loud environments, preserving the entire dynamic range of what you're listening to.
+35:45
+Next, let's talk about awareness. Because hearing loss often worsens gradually, it can be really hard to detect.
+35:52
+And even with tests that are available, 80% of adults in the U.S. have not had their hearing checked in the last five years.
+35:59
+To give you insight into your hearing health we're introducing a clinically-validated Hearing Test
+36:05
+with your AirPods Pro and iPhone. It's a simple five-minute check you can take from the comfort of your own home.
+36:11
+All you need to do is tap the screen when you hear a series of tones at different volumes and frequencies.
+36:17
+The Hearing Test builds on learnings from the Apple Hearing Study, and was developed using large-scale, real-world data.
+36:24
+And it was validated against the clinical gold standard of pure-tone audiometry. Once you're done, you'll see easy-to-understand results
+36:31
+in a personalized hearing profile. And like the rest of your health data, these results will be stored privately and securely
+36:39
+in the Health app, where you can take regular tests, learn more about hearing loss,
+36:44
+and share your results with your healthcare provider. Learning if you have hearing loss is a critical step
+36:50
+to getting the hearing assistance you need, which can often be challenging due to high cost and a limited audio experience.
+36:58
+And global research shows hearing loss often goes untreated. In fact, the Apple Hearing Study revealed
+37:04
+that a staggering 75% of people diagnosed with hearing loss haven't received the assistive support they need.
+37:11
+So we are really excited to announce that this fall AirPods Pro will have a clinical-grade over-the-counter Hearing Aid feature.
+37:19
+We're adding this groundbreaking capability to help more than one billion people living with mild to moderate hearing loss.
+37:26
+After you take a Hearing Test, your AirPods Pro are transformed into your a personalized Hearing Aid-
+37:32
+boosting the specific sounds you need in real time, like parts of speech or elements within your environment.
+37:38
+This will allow you to hear your surroundings better, to help keep you safe and connect you with people nearby
+37:44
+so it's even easier to hear and engage in conversations. - [muffled] Happy birthday, Mom.
+37:53
+[clear audio] We're here to celebrate you. And I am so proud
+37:59
+to be called your son. Sumbul: And with the amazing audio quality of AirPods Pro, your hearing profile is automatically applied to music,
+38:08
+movies, and phone calls across all your devices without needing to adjust any settings at all.
+38:14
+We are so excited for these updates coming to AirPods Pro 2 delivering the world's first all-in-one experience
+38:21
+with active Hearing Protection, a clinical-grade Hearing Test, and an easy-to-use, professional-grade Hearing Aid.
+38:29
+Building on years of impactful work, these innovations are driven by our unique integration of hardware and software
+38:36
+and are something only Apple can deliver. We expect to receive clearance from the FDA and other regulators soon,
+38:43
+with availability of the Hearing Test and Hearing Aid features this fall in over 100 countries and regions,
+38:49
+including the U.S., Germany, and Japan. These features will be available in a software update
+38:54
+coming to AirPods Pro 2 and iOS 18 to help make hearing health significantly more approachable for so many people.
+39:02
+Now, I'll pass it back to Kate. Kate: These are the breakthrough updates and category-defining innovations
+39:10
+that take the entire AirPods product line to the next level. With the best open-ear audio performance ever in AirPods 4,
+39:19
+a transformational, end-to-end hearing health experience for AirPods Pro 2,
+39:25
+and stunning new colors with USB-C charging for AirPods Max. And now, back to Tim.
+39:35
+Tim: I'm proud that we're continuing to deliver on Apple's commitment to health with a breakthrough experience
+39:42
+that will enrich so many people's lives. With updates across the AirPods lineup,
+39:48
+we continue to take the best personal audio experience in the world even further.
+39:55
+Now, let's talk about iPhone. iPhone continues to make a profound impact on all of our lives.
+40:03
+Its power and capability enable us to get so much done, so quickly and so easily.
+40:10
+Like connecting with our family and friends, staying productive on the go,
+40:15
+and capturing life's special moments. Apple Intelligence will supercharge these experiences and so many more.
+40:23
+It puts powerful generative models right at the core of your iPhone, making it even more useful and delightful.
+40:32
+The next generation of iPhone has been designed for Apple Intelligence from the ground up.
+40:38
+It marks the beginning of an exciting new era. And here it is.
+40:45
+♪ ♪
+41:02
+♪ ♪
+41:13
+iPhone 16 raises the bar for what an iPhone can do. Here's Kaiann to tell you more.
+41:21
+♪ ♪
+41:34
+Kaiann Drance: iPhone 16 has a vibrant new look. It is made from beautiful aerospace-grade aluminum
+41:41
+with 85% recycled content in the enclosure.
+41:47
+iPhone 16 celebrates color in an unparalleled way. We evolved the process of developing our unique and durable
+41:55
+color-infused back glass to create new, rich colors: Ultramarine, Teal, and Pink.
+42:02
+Together with White and Black, they create a bold new palette. iPhone 16 is built to last with industry-leading durability.
+42:11
+It is water and dust resistant and has our new, most-advanced glass ceramic formulation.
+42:18
+This latest-generation Ceramic Shield material is 50% tougher than the first-generation Ceramic Shield
+42:25
+and two times tougher than glass found in any other smartphone. The display on iPhone 16 provides an exceptional viewing experience
+42:35
+under all conditions– up to 2000 nits when you're in a sunny environment, and down to 1 nit in the dark.
+42:42
+And it comes in two sizes: 6.1 inches for iPhone 16
+42:47
+and 6.7 inches for iPhone 16 Plus. iPhone 16 now has the customizable Action button,
+42:56
+allowing you to perform a variety of functions with just a press. You can record a Voice Memo,
+43:02
+identify a song, or Translate a phrase. You can also customize the Action button with a shortcut
+43:09
+so it opens Calendar during the day, and Flashlight at night.
+43:14
+Or use it to directly access in-app functionality, like unlocking and locking your car with the FordPass app.
+43:23
+iPhone 16 introduces the all-new, innovative Camera Control.
+43:28
+The Camera Control provides instant, easy access to the Camera with just a click.
+43:34
+It allows you to adjust various camera features simply by sliding your finger.
+43:39
+Its convenient design ensures it's always within reach. And with iPhone 16,
+43:45
+the Camera becomes even more important, now serving as a powerful tool for intelligence.
+43:51
+The Camera Control offers instant access to a set of visual intelligence features.
+43:57
+iPhone 16's beautiful design is joined by powerful performance inside.
+44:03
+Every experience on iPhone is powered by Apple silicon. With industry-leading processing power and efficiency,
+44:11
+Apple silicon is at the heart of new capabilities starting with Apple Intelligence.
+44:16
+Here's Sri to tell you all about it. ♪ ♪
+44:24
+Sri Santhanam: Running powerful experiences like Apple Intelligence on-device needs a chip with substantial high-performance compute.
+44:32
+It needs memory to store large models and bandwidth to access them quickly.
+44:37
+And of course, phenomenal energy efficiency. So we're bringing our latest breakthroughs,
+44:43
+and jumping two generations ahead– from A16 Bionic in iPhone 15 to A18,
+44:49
+our brand-new chip, created specifically for iPhone 16. A18 features an upgraded, 16-core Neural Engine
+44:57
+that is optimized for running large generative models. This Neural Engine is up to two times faster for machine learning.
+45:06
+And it's not just the Neural Engine. We also upgraded A18's memory subsystem,
+45:12
+including 17% more system memory bandwidth. This is critical to give the chip the fastest, most efficient access
+45:20
+to our generative models, as well as drive the performance of Apple Intelligence.
+45:26
+A18 is built using second-generation 3-nanometer technology. This 3-nanometer technology has even smaller transistors
+45:34
+that are faster and more energy efficient. A18 has our latest generation 6-core CPU
+45:41
+with two performance cores and four efficiency cores. These are critical as they're used in nearly every experience on iPhone
+45:50
+including Apple Intelligence. It is up to 30% faster than the CPU in iPhone 15,
+45:56
+and up to 60% faster than the CPU in iPhone 12. And thanks to our design and the latest transistors,
+46:04
+the CPU is more energy efficient than A16 Bionic, and can deliver the same performance using 30% less power.
+46:13
+This CPU is faster than all the competition, challenging even high-end desktop PCs.
+46:21
+A18 also features our latest desktop-class GPU architecture. This new 5-core GPU plays a huge role
+46:29
+in everything from Apple Intelligence to camera features and graphics-intense games.
+46:34
+It is up to 40% faster than the GPU in iPhone 15 and up to two times faster than the GPU in iPhone 12.
+46:42
+The GPU is also more efficient than A16, delivering the same performance using 35% less power.
+46:51
+A18 is in a class of its own, built with our latest silicon innovations to power experiences like Apple Intelligence on iPhone 16.
+47:00
+Over to Craig to tell you more about Apple Intelligence. ♪ ♪
+47:20
+Craig Federighi: Your iPhone is the most personal product in your life. It's part of so many things that make you, you–
+47:27
+like your relationships and messages, your photos and memories, your calendar, notes, and more.
+47:34
+Now, we're bringing together that personal context with the power of generative models
+47:40
+to deliver intelligence that understands you. And we're doing it in a way that protects your privacy.
+47:47
+Apple Intelligence is the personal intelligence system at the heart of the iPhone 16 line-up
+47:53
+with the ability to understand and create language as well as images, and take action on your behalf to simplify daily tasks.
+48:02
+And each of these powerful capabilities is grounded in your personal context.
+48:07
+This is only possible thanks to our unique integration of hardware and software.
+48:13
+Apple Intelligence draws on the immense power of our silicon to run multiple generative models on the iPhone in your pocket.
+48:21
+These models are built by Apple and fine-tuned for your everyday iPhone experiences.
+48:27
+And they adapt dynamically to your current activity. For more computationally intensive tasks,
+48:33
+Apple Intelligence can unlock even more intelligence with Private Cloud Compute.
+48:39
+Private Cloud Compute maintains the privacy and security of your iPhone, while giving you access to generative models
+48:45
+much larger than what fits in your pocket today. It runs on servers we have built especially with Apple silicon.
+48:53
+Protecting your personal information when accessing server-based intelligence requires a fundamental breakthrough in how these systems are built,
+49:01
+and Private Cloud Compute delivers just that. When you draw on Private Cloud Compute
+49:07
+your data is never stored or shared with Apple. It's used only to fulfill your request.
+49:13
+And in a first for the industry, independent experts can continuously verify this privacy promise.
+49:21
+This is an extraordinary step forward for privacy in AI. Plus, Apple silicon servers deliver world-class energy efficiency.
+49:31
+And like all our data centers, they run on 100% renewable electricity as part of Apple 2030,
+49:38
+our commitment to make Apple carbon neutral across our entire footprint.
+49:43
+Apple Intelligence is integrated throughout the system, across so many of the apps you use day to day.
+49:50
+Let's take a look at four ways that Apple Intelligence will transform so much of what you do with your iPhone,
+49:56
+like how you communicate and express yourself. Starting with Writing Tools.
+50:02
+We're deeply integrating them into iOS, making them accessible virtually everywhere you type.
+50:08
+So you'll be able to rewrite hastily written notes into a polished dinner party invite,
+50:13
+adjust the tone of that Slack message to your boss to sound a little more professional,
+50:19
+or proofread your latest review on Goodreads before posting it to your fellow book worms.
+50:25
+Though sometimes, the best way to get your point across isn't with words, it's with emoji.
+50:31
+And you'll be able to create new emoji simply by typing a description, giving you the perfect response for your group thread.
+50:39
+With endless possibilities, you can let your imagination run wild. Or create fun, original images with Image Playground.
+50:48
+Along with a new dedicated app on iPhone, it'll be integrated right into apps like Messages.
+50:54
+Next, iPhone holds so many of your photos, and Apple Intelligence will give you brand-new ways
+51:01
+to relive precious memories. Suppose you've got a photo in mind that you took ages ago,
+51:07
+but can't remember exactly when or where. Just describe it, by typing something like "Shani dancing in a red dress,"
+51:15
+and Apple Intelligence will find it for you. It even works for getting straight to a specific moment in a video.
+51:23
+You'll also be able to create an entire movie to revisit a favorite memory, just by typing a description of whatever you have in mind,
+51:31
+like "the kids learning to crochet with Aunt Fiona." Apple Intelligence will automatically find relevant photos and videos
+51:38
+and smartly arrange them into a storyline. We hope you'll enjoy building your own collection of movies
+51:45
+that you can share and relive for years to come. Now, let's talk about how Apple Intelligence on iPhone 16
+51:53
+will help you prioritize and focus on your most essential communication. In Mail, it'll be easy to quickly survey your inbox.
+52:02
+Instead of seeing the first couple lines of your emails, you'll see summaries that convey the most useful information.
+52:08
+Your notifications will be summarized too, helping you quickly get the gist.
+52:14
+And priority notifications will be placed at the top of your stack so you won't miss a last-minute invitation.
+52:21
+All throughout our day, we turn to iPhone to help us get things done. And a great way to accelerate everyday tasks is with Siri.
+52:30
+Apple Intelligence marks the start of a new era for Siri, and makes it more natural, more contextually relevant,
+52:37
+and more personal to you. With richer language understanding, Siri will follow along if you stumble over your words.
+52:45
+- Hey, Siri, who was the architect behind the museum of– wait, no, not the museum.
+52:50
+The Palace of Fine Arts? Siri: Bernard Maybeck designed the Palace of Fine Arts.
+52:56
+Craig: And you'll always have the option to type to Siri– great for those times when you want to make your request
+53:02
+a little more discreetly. With its new, expansive knowledge about features and settings,
+53:07
+Siri will give you step-by-step guidance on how to do something on your iPhone, like deleting duplicate photos from your library.
+53:15
+This will be great for everyone, and especially for anyone new to iPhone. And there's so much more to come.
+53:22
+Siri will be able to tap into your personal context to help you in ways that are unique to you,
+53:28
+like pulling up the recommendation for the TV show that your brother sent you last month. And Siri will gain on-screen awareness,
+53:35
+so when your friend texts you about a new album, you'll be able to simply say, "play that."
+53:40
+And it will be able to take hundreds of new actions in your apps, like updating a friend's contact card with his new address
+53:47
+or adding a set of photos to a specific album. With Siri's personal context understanding and action capabilities,
+53:54
+you'll be able to simply say, "send Erica the photos from Saturday's barbecue" and Siri will dig up the photos and send them right off.
+54:03
+With new ways to express yourself and relive memories, along with tools to help you prioritize and focus so you can get more done,
+54:10
+Apple Intelligence is going to transform so much of what you do with iPhone.
+54:15
+Apple Intelligence will be available as a free software update. The first set of features will be available in beta next month,
+54:24
+with more features rolling out in the months to come. We're starting with U.S. English in most regions around the world.
+54:30
+We'll add localized English for Australia, Canada, New Zealand, South Africa, and the UK in December.
+54:37
+We're working to expand Apple Intelligence to more languages like Chinese, French, Japanese, and Spanish,
+54:45
+and will be rolling these out next year. And this is just the beginning. As we look ahead, we'll continue to bring more personal intelligence
+54:53
+to the apps and experiences that you use every day. Now, I'd like to show you something really cool
+55:00
+that we've created especially for iPhone 16. Your iPhone is with you everywhere you go,
+55:06
+and we wanted to give you the ability to instantly learn about everything you see.
+55:11
+Visual intelligence is just a click away with iPhone 16's new Camera Control
+55:17
+that Kaiann introduced earlier. Let me show you. Suppose you're out for a stroll and you stumble upon a restaurant
+55:24
+you haven't been to before. Just click and hold the Camera Control and point your iPhone.
+55:30
+With just a click– boom, your iPhone instantly pulls up restaurant hours,
+55:35
+ratings, and quick options to check out the menu or make a reservation. And you can learn more with just a tap.
+55:43
+Awesome. And say you come across a flyer for an interesting event.
+55:48
+Just click! And you can add it to your calendar. Details about the event title, time and date,
+55:54
+and location are automatically entered for you. And then there's that cute little puppy you see at the park.
+56:00
+What kind of dog is that? Click! And now you know.
+56:07
+All of this is done privately, using a combination of on-device intelligence and Apple services that never store your images.
+56:15
+And there's more. The Camera Control is also your gateway to third-party tools,
+56:21
+making it super fast and easy to tap into their specific domain expertise.
+56:26
+So if you come across a bike that looks exactly like the kind you're in the market for, just tap to search Google for where you can buy something similar.
+56:35
+And if you're studying notes from your college lecture and get stuck on a particular concept,
+56:41
+just use the Camera Control to ask ChatGPT for guidance. Nice.
+56:47
+Of course, you're always in control of when third-party tools are used, and what information is shared.
+56:54
+So that's visual intelligence, enabled by the new Camera Control on iPhone 16,
+57:00
+helping you learn about your surroundings and get answers to your questions faster than ever before.
+57:06
+It's coming to the Camera Control later this year. The Camera Control also elevates the camera experience on iPhone 16.
+57:14
+To tell you all about it, here's Piyush. ♪ ♪
+57:20
+Piyush Pratik: iPhone is the world's most popular camera. It has profoundly impacted the world by making it effortless
+57:27
+for everyone to capture amazing photos and videos. Let's start with a closer look at the Camera Control.
+57:33
+It's designed for an amazing camera experience that brings you new ways to capture your photos quickly and easily.
+57:41
+The Camera Control is easy to use in landscape or portrait.
+57:46
+It's flush to the surface, covered by a sapphire crystal with a smooth texture,
+57:52
+and surrounded by a color-matched stainless steel trim. The Camera Control elegantly blends hardware and software.
+57:59
+When you click, it launches the Camera. And once in the Camera, you don't need to adjust your grip to take a photo.
+58:06
+Just click again, so you don't miss the moment. With a click and hold, you can do a quick video recording.
+58:14
+The Camera Control is packed with innovation. A tactile switch enables the click experience.
+58:20
+A high-precision force sensor interacts with the Taptic Engine, ensuring responsive haptic feedback
+58:26
+like in a mechanical camera shutter. Additionally, a small multi-pixel capacitive sensor
+58:32
+and signal processor under the sapphire crystal recognize touch gestures.
+58:38
+Thanks to this innovative design, the Camera Control can distinguish between a full click and a lighter press.
+58:46
+While you click to take a photo, a lighter press reveals an all-new clean preview
+58:52
+that dissolves other UI elements, helping you focus on framing the shot.
+58:58
+A light press also brings up a new overlay that allows quick access to useful camera functions.
+59:05
+By sliding your finger on the Camera Control, you can adjust controls, like zoom.
+59:10
+When you press lightly twice, you can see other controls. Then simply slide to the control you want,
+59:17
+and press lightly again to select it, like the depth of field to compose a stunning portrait.
+59:24
+Apps like Snapchat are also leveraging the Camera Control to create new experiences,
+59:30
+like quickly sharing the moment with your friends or groups. And that's the new Camera Control on iPhone 16,
+59:38
+making it even easier to capture memories and access visual intelligence.
+59:44
+iPhone 16 also has a phenomenal 48MP Main camera,
+59:49
+that offers incredible flexibility. You can maximize resolution with a 48MP photo,
+59:56
+with four times more resolution than the camera on iPhone 14. So you can capture fine details in the scene,
+1:00:03
+like this rocky coastline. The Main Camera image pipeline can also fuse a super-high resolution image
+1:00:11
+with an image that's been optimized for light capture by grouping every four pixels into a larger pixel.
+1:00:18
+The result is a 24MP photo that balances image quality,
+1:00:24
+light and detail, and a smaller file size that's great for storing and sharing.
+1:00:29
+Computational photography also allows us to flex this Main camera beyond its fixed lens.
+1:00:36
+We use the middle 12 megapixels of the sensor to deliver a 2x Telephoto option with full-resolution photos.
+1:00:44
+This 2x Telephoto option has a faster aperture than any previous dedicated 2x Telephoto camera on iPhone,
+1:00:52
+and can capture up to 1.6 times more light. The capability to capture 48MP photos
+1:01:00
+and optical-quality 2x telephoto images makes this Main Camera a 48MP Fusion camera.
+1:01:08
+This 2x Telephoto even has even has a separate image pipeline that delivers incredible quality with Deep Fusion,
+1:01:15
+zero shutter lag, and great low-light performance. And it captures 4K60 video in Dolby Vision HDR with optical quality.
+1:01:25
+iPhone 16 also has a new Ultra Wide camera, now with autofocus.
+1:01:31
+People love the Ultra Wide camera for its versatility, from capturing more of the scene,
+1:01:37
+to creative framings such as taking your own picture with it, which is so easy now with the Camera Control.
+1:01:43
+With a larger aperture and bigger pixels, the new Ultra Wide camera can capture up to 2.6 times more light
+1:01:51
+for even higher image quality, especially in low-light situations.
+1:01:56
+The new Ultra Wide camera also enables macro photography. So you can get really close to the subject and capture impressive details
+1:02:05
+like on this frog's skin and this mantis that looks so majestic in macro.
+1:02:12
+With macro and the 2x Telephoto zoom enabled by the 48 MP Fusion camera,
+1:02:17
+iPhone 16 users will get the equivalent of four lenses in their pocket. And we're pushing things further with spatial capture on iPhone 16.
+1:02:27
+The new camera design enables us to get stereoscopic information from the Ultra Wide and Fusion cameras
+1:02:34
+for capturing spatial videos. And, for the very first time on iPhone, we can also capture spatial photos!
+1:02:42
+It's so powerful to preserve your precious moments with spatial photos and videos
+1:02:47
+like your kids' first steps or a family vacation, and relive them for years to come on Apple Vision Pro.
+1:02:54
+iPhone 16 also makes audio quality better. Using powerful machine learning algorithms,
+1:03:01
+we can reduce unwanted wind noise from your videos. - Hey! I'm getting that classic San Francisco breeze.
+1:03:10
+Sorry if it's loud. I'm having a great trip. I miss you guys! I'll see you when I get back.
+1:03:16
+Piyush: Once you've captured your moments, the true magic is enjoying them later. And we're elevating the entire experience with iOS 18.
+1:03:25
+The redesigned Photos app can automatically organize your library into beautiful and useful collections
+1:03:32
+like groups of your favorite people, trips, and so much more. Because everyone's library is unique,
+1:03:40
+the Photos app is now customizable. So you can reorder collections and pin the ones you access frequently.
+1:03:47
+With Clean Up coming with Apple Intelligence, you can easily remove distracting objects in photos,
+1:03:53
+even their reflections and shadows. iPhone 16 features so many exciting camera upgrades–
+1:04:01
+Camera Control, 48MP Fusion camera, the equivalent of four lenses including macro,
+1:04:08
+spatial capture, and more. Now, back to Kaiann.
+1:04:15
+Kaiann: A18 drives Camera and Apple Intelligence features. Our amazing silicon also benefits world-class gaming.
+1:04:24
+We pair the powerful performance and efficiency of A18 with new system optimizations,
+1:04:30
+including our thermal design. We updated the main logic board, centralizing the chip placement
+1:04:35
+and optimizing the surrounding architecture. We also added a thermal sub-structure to dissipate heat,
+1:04:42
+made from 100% recycled aluminum. As a result, iPhone 16 delivers up to 30% higher sustained performance for gaming.
+1:04:52
+A18 also supports hardware-accelerated ray tracing. This is used by games such as War Thunder Mobile,
+1:05:00
+to more accurately represent the reflection of the sun on the water. Hardware acceleration can run ray tracing
+1:05:08
+at up to five times higher frame rates than with software-based ray tracing allowing A18 to run these graphics smoothly.
+1:05:16
+Here, ray tracing is used to create realistic shadows and reflections.
+1:05:21
+These techniques aren't possible to run in real time without hardware acceleration.
+1:05:27
+iPhone 16 will also support the AAA games that were previously only available
+1:05:33
+for iPhone 15 Pro, like Resident Evil 7 Biohazard that launched earlier this year
+1:05:39
+and Assassin's Creed Mirage. They run great on iPhone and work seamlessly with controllers.
+1:05:46
+And today, we're incredibly excited to introduce the next-generation leading game from Tencent–
+1:05:52
+Honor of Kings: World. This is the latest installment into this massive franchise
+1:05:58
+that boasts hundreds of millions of players worldwide, and is one of the most popular games in the world.
+1:06:04
+Players will be amazed by the ultra graphics mode optimized for iPhone 16.
+1:06:10
+It offers an unparalleled visual experience with higher resolution, advanced lighting effects,
+1:06:16
+powerful global illumination technology, and expanded viewing distance.
+1:06:21
+iPhone 16 will provide the ultimate mobile experience for Honor of Kings: World,
+1:06:27
+elevating gaming on a smartphone to new heights. Get ready for an incredible journey in Honor of Kings: World,
+1:06:34
+coming to iPhone next year. These join other console-level games for iPhone,
+1:06:40
+that take mobile gaming to the next level. Powerful workloads like gaming and Apple Intelligence
+1:06:46
+demand great battery life. So we gave iPhone 16 an even bigger battery,
+1:06:52
+which together with the energy efficiency of A18 and the advanced power management of iOS 18,
+1:06:59
+delivers a big boost in battery life. iOS 18 brings even more to iPhone 16.
+1:07:06
+Including new ways to customize, new text effects, and Maps with detailed trail networks and hikes.
+1:07:12
+iOS 18 also makes our safety capabilities even more helpful.
+1:07:17
+With Emergency SOS Live Video, you can share a live video feed or photos
+1:07:23
+with participating 911 dispatchers. Visual context can help them better assess the emergency,
+1:07:29
+and enable prompt medical triage. iOS 18 includes Messages via satellite,
+1:07:35
+building upon our amazing satellite capabilities. You can send and receive messages and Tapbacks
+1:07:42
+to stay connected with your friends and loved ones while enjoying that hike off the grid. Messages via satellite will be available along with our other satellite features,
+1:07:52
+starting in the U.S. and Canada. We've extended our satellite service to more locations
+1:07:58
+to help you stay connected and safe when cellular and Wi-Fi aren't available. Emergency SOS and Find My via satellite
+1:08:07
+are available in 17 countries and regions across four continents. And Roadside Assistance via satellite, launched last year in the U.S.,
+1:08:16
+will also be available in the United Kingdom. And that's iPhone 16!
+1:08:22
+With incredible camera experiences including the 48MP Fusion camera,
+1:08:27
+macro, and spatial capture. Deep customization abilities with the Action button and iOS 18.
+1:08:35
+And built for Apple Intelligence from the ground up with A18, Camera Control that enables visual intelligence,
+1:08:42
+and a big boost in battery life. This marks a new era for iPhone.
+1:08:48
+Here's iPhone 16 in action.
+1:08:54
+♪ ♪
+1:09:12
+♪ ♪
+1:09:30
+♪ ♪
+1:10:06
+♪ ♪
+1:10:24
+♪ ♪
+1:10:40
+Kaiann: iPhone 16 and iPhone 16 Plus are a huge leap forward. They still start at just $799 for iPhone 16
+1:10:48
+and $899 for iPhone 16 Plus. With exceptional durability, longevity, and software updates,
+1:10:55
+iPhone holds its value longer than other smartphones. Which means it's even easier to benefit from excellent iPhone trade-in offers
+1:11:03
+from Apple and our partners, including up to $800 off in the U.S.
+1:11:08
+when you trade-in an iPhone 12 or newer. Trade-in can also be done in our stores or online,
+1:11:15
+which are also great places to learn more. Our teams are ready to help you learn about new features
+1:11:21
+like Apple Intelligence, and decide which iPhone is right for you, even helping with personalized setup.
+1:11:27
+And now, back to Tim. Tim: iPhone 16 is amazing,
+1:11:34
+and because it's been designed to take full advantage of Apple Intelligence, it's more powerful and useful than ever.
+1:11:40
+Next, let's talk about our Pro models. These products introduce our most cutting-edge technologies
+1:11:48
+and provide experiences that push the boundaries of what a smartphone can do. And Apple Intelligence takes this even further.
+1:11:57
+This year's Pro models deliver breakthrough innovation and incredible new capabilities, in this gorgeous design.
+1:12:06
+♪ ♪
+1:12:23
+♪ ♪
+1:12:40
+♪ ♪
+1:12:46
+Designed with Apple Intelligence at its core, iPhone 16 Pro brings the next-generation Pro experience to our users.
+1:12:54
+Here's Joz to tell you more. ♪ ♪
+1:13:14
+Greg "Joz" Joswiak: iPhone 16 Pro has a stunning new design with innovations inside and out.
+1:13:21
+It starts with a big improvement to the gorgeous Pro displays– they're even larger at 6.3-inches on iPhone 16 Pro,
+1:13:30
+and 6.9-inches on iPhone 16 Pro Max for the largest iPhone display ever,
+1:13:37
+helping you see more and do more. We did this, while minimizing product growth,
+1:13:42
+by developing the thinnest borders on any Apple product. With larger displays, ProMotion with adaptive refresh rates
+1:13:50
+up to 120Hz, Always-On for important information at a glance, and amazing durability with our latest-generation Ceramic Shield,
+1:13:59
+these are by far our best iPhone displays ever. iPhone 16 Pro uses exceptionally high quality Grade 5 Titanium,
+1:14:08
+which provides one of the best strength-to-weight ratios of any metal and is nearly half the weight of stainless steel.
+1:14:15
+It's stronger and more scratch resistant than lower grades of titanium that others have used. And it features a beautiful new micro-blasted texture.
+1:14:24
+iPhone 16 Pro comes in four stunning finishes: a darker Black Titanium,
+1:14:30
+a brighter White Titanium, Natural Titanium, and a beautiful new Desert Titanium.
+1:14:38
+It has a warmer hue on the band that's elegantly contrasted with the softer color on the back glass.
+1:14:45
+iPhone 16 Pro maximizes thermal capacity with a new machined chassis
+1:14:50
+made from 100% recycled aluminum, which is bonded to the titanium frame using solid state diffusion.
+1:14:57
+It's combined with a graphite clad aluminum sub-structure, creating an innovative architecture that enables up to 20% improvement
+1:15:05
+in sustained performance. This is crucial for efficiently running advanced on-device features
+1:15:11
+like Apple Intelligence and high-performance gaming. Battery optimizations, larger batteries,
+1:15:17
+advanced power management, and the remarkable efficiency of Apple silicon provide fantastic battery life.
+1:15:25
+In fact, iPhone 16 Pro Max has the best iPhone battery life ever.
+1:15:31
+iPhone 16 Pro is built from the ground up for Apple Intelligence. All the Apple Intelligence capabilities you heard about earlier
+1:15:39
+enhance the Pro experience like never before. We all rely on multiple apps to get work done
+1:15:46
+and collaborate with our team. If you need to quickly find an important detail, but can't remember where it was shared,
+1:15:53
+Siri will use your personal semantic index to quickly locate the information you're looking for.
+1:16:00
+If you record a meeting, Apple Intelligence will generate a summary from the transcript.
+1:16:05
+And when it's time to update everyone on the latest status, you'll be able to use it to help rewrite your note in a more professional tone.
+1:16:12
+And Siri's new action capabilities will be awesome for pros. Like for photographers, who will be able to ask Siri
+1:16:18
+to pull up a specific shot from their library and then apply the edit to the photo in Darkroom.
+1:16:24
+And when scouting a location for a photoshoot, photographers will be able to use the Camera Control to quickly get suggestions
+1:16:31
+on how to enhance the space and achieve their vision. Apple Intelligence will allow you to accomplish even more while on the go.
+1:16:38
+And this is just the beginning. Apple silicon unlocks an amazing set of features found only on iPhone 16 Pro.
+1:16:46
+Let's go back to Sri to hear more about our remarkable new Pro chip.
+1:16:54
+Sri: Just like A18 is key to enabling iPhone 16, iPhone 16 Pro's unique performance and feature requirements
+1:17:02
+demanded a new Pro chip. This is A18 Pro.
+1:17:07
+It's even faster and more efficient than A18, and it enables many of the features that are unique to iPhone 16 Pro.
+1:17:15
+A18 Pro is also built with second-generation 3-nanometer transistors. Our chips are the first smartphone chips in the world
+1:17:24
+to use these smaller transistors with better density, performance, and efficiency.
+1:17:29
+A18 Pro also has the new 16-core Neural Engine that powers amazing on-device performance for Apple Intelligence.
+1:17:37
+This incredibly powerful Neural Engine excels at generative AI workloads.
+1:17:42
+Compared to the Neural Engine in A17 Pro, it's faster and more efficient,
+1:17:47
+and is supported by a 17% increase in total system memory bandwidth.
+1:17:53
+It's designed hand in hand with Apple Intelligence for even better performance.
+1:17:59
+Combined with the increased memory bandwidth, Apple Intelligence features run up to 15% faster than on A17 Pro.
+1:18:08
+The updated memory subsystem improves graphics performance as well. When paired with the new, faster 6-core GPU of A18 Pro,
+1:18:17
+this helps the GPU to run up to 20% faster than A17 Pro.
+1:18:22
+This takes AAA games even further with A18 Pro. Thanks specifically to new enhancements to the GPU architecture,
+1:18:30
+hardware acceleration can perform ray tracing up to two times faster than A17 Pro.
+1:18:37
+A18 Pro has the highest performance implementation of our latest 6-core CPU
+1:18:42
+with two performance cores and four efficiency cores. The new CPU is up to 15% faster than A17 Pro,
+1:18:51
+and is capable of delivering the same performance using 20% less power compared to A17 Pro.
+1:18:58
+Compared to A18, it's backed by larger caches for better performance in the most demanding apps and games.
+1:19:05
+This is the fastest CPU in any smartphone. The new CPU also has next-generation ML accelerators
+1:19:13
+that help power Apple Intelligence. They're now directly programmable for high-efficiency,
+1:19:19
+high throughput, and low-latency computations. A18 Pro also has advanced media features
+1:19:25
+that are available only on our pro models, like the new advanced display engine for ProMotion and Always-On.
+1:19:33
+A18 Pro also enables faster USB 3 speeds and ProRes video recording.
+1:19:38
+Additionally, A18 Pro has a new video encoder and a new image signal processor
+1:19:44
+which together, process two times the amount of data for super fast encoding and improved efficiency for video.
+1:19:51
+As you can see, we designed A18 Pro to enable all the advanced capabilities of iPhone 16 Pro.
+1:19:58
+It also powers never-before-seen camera features. Here's Della to tell you about some incredible advancements.
+1:20:05
+♪ ♪
+1:20:14
+Della Huff: iPhone 16 Pro empowers creativity across photos and videos, thanks to the tight integration of hardware, software, and intelligence.
+1:20:23
+First, let's talk about photography. Our Pro models push the limits of how we capture the world around us,
+1:20:29
+and iPhone 16 Pro brings more resolution, control, and customization than ever.
+1:20:34
+iPhone 16 Pro has a new 48MP Fusion camera and an innovative Apple Camera Interface
+1:20:40
+that delivers fast and efficient data transfer from the sensor to the chip.
+1:20:46
+The new 48MP Fusion camera has a second-generation quad-pixel sensor
+1:20:51
+that can read data two times faster, enabling zero shutter lag for 48MP ProRAW and HEIF photos.
+1:20:59
+So you can capture this flowing dress at the exact moment with uncompromised detail
+1:21:05
+or even when your subject won't stay still. We know that high-resolution matters in a variety of scenes,
+1:21:12
+so we're introducing a new 48MP Ultra Wide camera. It has a new quad-pixel sensor for high resolution shots with autofocus.
+1:21:21
+You can capture so much more detail in wider-angle shots or when you want to get up close for a gorgeous macro shot.
+1:21:29
+The 5x Telephoto camera, with our longest focal length, is a huge hit.
+1:21:34
+It lets you get closer even from far away with stunning quality. And now you get the innovative tetraprism design
+1:21:42
+on iPhone 16 Pro Max and iPhone 16 Pro. Along with the new 48MP Fusion and Ultra Wide,
+1:21:49
+iPhone 16 Pro gets three new cameras. With the Camera Control, you can quickly open the Camera app
+1:21:55
+and slide between lenses for the perfect shot, like with the 5x Telephoto. Plus, there's nothing like having a dedicated, go-to control
+1:22:04
+for your camera. It makes the Pro camera system more versatile than ever, letting you stay immersed in the capture experience
+1:22:10
+while you dial in the depth of field and exposure. Camera Control will be updated later this year with a two-stage shutter
+1:22:17
+that can automatically lock focus and exposure on the subject. Just press lightly to reframe the shot without losing subject focus.
+1:22:25
+We're also making it effortless to bring your creative vision to life. Our latest generation of Photographic Styles
+1:22:32
+lets you express your creativity like never before. They begin with advancements that go deeper into the image pipeline.
+1:22:39
+We can understand skin tones and locally adjust color, highlights, and shadows, all in real time,
+1:22:45
+which allows us to push the creative range further. So now you can personalize how you or your subject appears in photos
+1:22:52
+with incredible nuance. This is not just a one-size-fits all approach.
+1:22:57
+The powerful imaging upgrades also enable more creative styles. These provide different moods
+1:23:03
+and are based on past and present photography aesthetics. The adjustments are applied to specific colors,
+1:23:09
+like this gorgeous style, and don't just add one shade to the entire scene. There are stunning black-and-white options
+1:23:16
+that look great in a studio or outdoors. And this natural look with dramatic, rich tones,
+1:23:22
+and many more. You can further personalize all of the styles with a new, simple control pad
+1:23:28
+that simultaneously adjusts tone and color– something that can be challenging to edit even with pro workflows.
+1:23:36
+You can also change the style after capture, a big step up from original Photographic Styles.
+1:23:41
+And with the Camera Control, you can slide through all of the styles to find the right one for your shot.
+1:23:47
+With the power of A18 Pro, you can see the style applied during live preview, so this is like professional color grading in real time.
+1:23:55
+We also have some exciting updates to video. To tell you all about it, here's Paulom.
+1:24:01
+♪ ♪ Paulom Shah: iPhone continues to lead the industry in smartphone video,
+1:24:08
+with stunning dynamic range, gorgeous colors, and great low-light performance and stabilization.
+1:24:14
+We took a tremendous leap forward last year when we introduced game-changing video capabilities like Log recording,
+1:24:21
+and were the first to enable support for the Academy Color Encoding System. Together with powerful yet easy-to-use features like Cinematic mode in 4K
+1:24:30
+and Action mode, iPhone enables people to tell their story like never before.
+1:24:36
+Creative flexibility is key to getting the perfect shot, and higher frame rates enable dramatic slo-mo effects,
+1:24:42
+for whatever story you're telling. Take a look. ♪ ♪
+1:25:00
+- [slowed] Why are we walking so slowly? - [slowed] It makes this scene
+1:25:06
+feel more cinematic. ♪ ♪
+1:25:18
+[normally] This? Not cinematic. - No, I get that. It's just, when there's a giant explosion behind us,
+1:25:24
+maybe it's not the best time to walk in slow-motion. - It's the only time to walk in slow-motion.
+1:25:29
+♪ ♪ [slowed] Don't look back. It ruins it.
+1:25:37
+♪ ♪
+1:25:45
+Paulom: Introducing 4K at 120-frames-per-second, delivering our highest resolution and frame rate yet for incredible slo-mo.
+1:25:54
+It's made possible by the faster sensor of the new 48MP Fusion camera
+1:25:59
+and the high transfer speed of the Apple Camera Interface. And with the new ISP of A18 Pro,
+1:26:06
+we can do frame-by-frame cinema-quality color grading at 4K120 in Dolby Vision.
+1:26:12
+You can also capture 4K120 ProRes and Log, directly to an external storage device,
+1:26:18
+for pro editing workflows requiring both high frame rate and color grading control.
+1:26:24
+You can use 4K120 in Slo-mo or video mode. And now you don't have to make that upfront decision on frame rate.
+1:26:31
+You can adjust the playback speed after capture in the new Photos app. There's a quarter-speed playback,
+1:26:38
+a new half-speed option that really adds a wonderful, dreamy effect, or you can bring it back to normal speed.
+1:26:46
+There's also a one-fifth speed option that corresponds to 24-frames-per-second playback.
+1:26:51
+These playback speed controls are great for easy, on-the-go editing. And with Camera Control, you can quickly capture 4K120 in HDR.
+1:27:02
+Video capture apps like Kino are also creating unique Camera Control experiences like grid composer.
+1:27:08
+This lets you frame the shot based on rule of thirds, grid,
+1:27:14
+social media formats, and even a director's view finder.
+1:27:19
+This is a powerful video upgrade that takes storytelling on iPhone 16 Pro to the next level.
+1:27:26
+Back to you, Joz. Joz: These amazing hardware and software innovations
+1:27:32
+take the creative power of iPhone 16 Pro further than ever. We're also taking a big leap forward with audio performance.
+1:27:41
+iPhone 16 Pro brings new hardware, software, and intelligence innovations previously unseen on smartphones.
+1:27:49
+iPhone 16 Pro has four studio-quality mics for higher quality audio recording.
+1:27:55
+They provide a much lower noise floor, which means you get more true-to-life audio with reduced noise.
+1:28:01
+This is great for vocal and acoustic recordings. And it makes everything that uses the microphone simply sound better.
+1:28:09
+We're also enabling Spatial Audio capture during video recording for a more immersive experience
+1:28:15
+when listening with AirPods or watching your spatial videos on Apple Vision Pro, or even your home theater setup.
+1:28:22
+The new studio quality mics and Spatial Audio Capture enable creative sound editing with our new Audio Mix feature.
+1:28:30
+This is an industry first, and it's powered by advanced intelligence. Audio Mix uses machine learning to identify and separate
+1:28:39
+background elements from speech and lets you choose from three voice options.
+1:28:44
+Say people off-camera are talking during the capture. - No, it's your grandma's bundt cake. - Pancakes times two.
+1:28:49
+- Okay. That's very funny. - Enjoy. Joz: The In-frame mix isolates the voice of the person on-camera
+1:28:55
+so you don't lose that perfect take. - No, it's your grandma's bundt cake.
+1:29:00
+- Yeah, okay, that's very funny. All right. Joz: Studio Mix gives the effect of recording in a professional studio,
+1:29:07
+complete with sound-dampening walls, effectively eliminating reverb. - No, it's your grandma's bundt cake. - Pancakes times two.
+1:29:13
+- Yeah, okay, that's very funny. All right. - Enjoy. Joz: And Cinematic Mix handles voices like in movies,
+1:29:20
+with the vocal track positioned in the front... - Is that what I think it is? - No, it's your grandma's bundt cake. - Pancakes...
+1:29:26
+Joz: And environmental noises in the surround. We also have a really cool update to Voice Memos coming later this year.
+1:29:34
+Many musicians already use this app to quickly capture song ideas. Well, now, you can layer another track on top of an existing recording–
+1:29:44
+like if you want to sing over a previously recorded guitar track. Just tap to layer another track, and hit record.
+1:29:50
+♪ ♪
+1:29:57
+Voice Memos plays the guitar track through the iPhone speakers, while simultaneously recording your voice.
+1:30:04
+♪ ♪ When you're done, Voice Memos uses advanced processing
+1:30:09
+to isolate your new vocal recording, and cancels the background music– giving you a professional-sounding recording
+1:30:16
+without the need for headphones. Musicians are going to love being able to layer ideas,
+1:30:23
+and capture high-quality recordings right when inspiration strikes.
+1:30:28
+From studio-quality mics to new sound editing, these audio capabilities are not found on any other smartphone.
+1:30:36
+It's an awesome combination with the new video and photo features.
+1:30:41
+Now let's take an exclusive first look at how iPhone 16 Pro is used to bring The Weeknd's new song and music video to life.
+1:30:51
+♪ ♪
+1:30:56
+Erik Henriksson: I'm Erik Henriksson. I'm the cinematographer, and we're on the set with The Weeknd,
+1:31:01
+shooting his music video on the new iPhone 16 Pro.
+1:31:12
+Erik: When we were told that the iPhone can now shoot in 4K, 120-frames-per-second,
+1:31:17
+we wanted to do a music video shot in slow motion.
+1:31:28
+Shooting 4K, 120 really helped us to slow down reality.
+1:31:34
+To slow down the elements. Slow down The Weeknd's movement.
+1:31:39
+You didn't have to think like, "Oh, it's just an iPhone." We just pushed it as far as we normally do,
+1:31:44
+really creating epic shots.
+1:31:52
+Eddy Chen: Abel's a super cool character to shoot. I've worked with him before on different sets.
+1:31:57
+It's hard to miss with him. I love shooting portraits on the iPhone. You can get really close to the subject.
+1:32:03
+Becomes really intimate. And with the new photo styles, you could dial back contrast and you could punch it up if you need,
+1:32:09
+so it's super helpful to just see it as you're shooting.
+1:32:18
+I really think the Ultra Wide captures such a cool and unique perspective. I definitely get sharper detail with the Ultra Wide lens
+1:32:25
+because of the new 48MP. And with Camera Control, it allows anyone to just access
+1:32:31
+so many of the features– you know, your exposure, your focal lengths, photo styles.
+1:32:39
+With just a few taps in Camera Control, I can make technical decisions in real time.
+1:32:44
+And if a moment comes up in between takes, we just took up the phone, and we just started shooting.
+1:32:52
+Erik: We can get those moments when we see them, and it won't be just a memory. Two, one, action.
+1:32:58
+And shooting with Apple Log means we have more flexibility to explore color in post.
+1:33:03
+The new camera features on the iPhone 16 Pro make it a filmmaking powerhouse.
+1:33:13
+You stop thinking about it being an iPhone, and you treat it like a normal camera.
+1:33:26
+Joz: These creative capabilities are only available on iPhone 16 Pro and they help us enhance storytelling like never before.
+1:33:35
+We also have an update to our MagSafe ecosystem. First, we have new Clear and silicone MagSafe cases
+1:33:42
+for the iPhone 16 lineup that work seamlessly with the Camera Control. They feature a sapphire crystal coupled to a conductive layer
+1:33:51
+to communicate the finger movements to the Camera Control. We also have a new MagSafe charger for even faster wireless charging–
+1:33:59
+available in two lengths, one and two meters. The iPhone 16 lineup also supports Qi2,
+1:34:06
+for improved charging efficiency, magnetic attachment, and broader compatibility.
+1:34:11
+We're also making significant packaging updates to help meet our environmental commitments.
+1:34:17
+The packaging for the entire iPhone 16 lineup is now 100% fiber-based,
+1:34:22
+made from renewable and sustainable resources, which further reduces our carbon footprint.
+1:34:29
+Additionally, it is slimmer, which helps reduce shipping impacts. And that's iPhone 16 Pro.
+1:34:35
+With Apple Intelligence, A18 Pro, a beautiful Titanium design,
+1:34:41
+larger displays, Camera Control, and innovative features across photo, video, and audio,
+1:34:48
+this is a huge step forward. iPhone 16 Pro gives users the best of iPhone
+1:34:54
+that will have a meaningful impact in their daily lives. These are the best iPhones we've ever made.
+1:35:00
+They start at just $999 for iPhone 16 Pro and $1199 for iPhone 16 Pro Max.
+1:35:07
+We also have amazing offers from Apple and our partners, including up to $1000 off in the U.S.
+1:35:14
+when you trade in an iPhone 12 Pro or newer. All new iPhone 16 models will be available for pre-order on Friday
+1:35:22
+and will be available in stores next week on September 20. With Apple Intelligence on iPhone 16 and iPhone 16 Pro,
+1:35:31
+this is the most extraordinary iPhone lineup ever. Now, back to Tim.
+1:35:37
+♪ ♪
+1:35:44
+Tim: Thank you, Joz, and thanks to all of our presenters. What a remarkable day of announcements
+1:35:51
+about products that continue to make a profound impact on all of our lives.
+1:35:56
+We announced Apple Watch Series 10, the thinnest Apple Watch yet, featuring our biggest display,
+1:36:04
+fastest charging, and incredible new capabilities. And the stunning new Apple Watch Ultra 2 in Black Titanium.
+1:36:12
+It's the ultimate Apple Watch. Both have sleep apnea detection
+1:36:17
+and come with all of the advanced features of watchOS 11. AirPods 4, with its comfortable new design,
+1:36:25
+incredible improvements to audio performance, and the option of Active Noise Cancellation.
+1:36:31
+AirPods Max, with USB-C for more convenient charging, in beautiful new colors.
+1:36:38
+And a revolutionary new end-to-end hearing health experience that includes being able to use your AirPods Pro 2
+1:36:45
+as a clinical-grade hearing aid. I'm really excited about the impact this will have on so many people's lives.
+1:36:53
+I'm also excited about a new generation of iPhone built from the ground up to deliver Apple Intelligence
+1:37:00
+and its breakthrough capabilities. iPhone 16, powered by A18,
+1:37:06
+with an incredible new 48MP Fusion camera, fantastic photo experiences,
+1:37:13
+the addition of the Action button and the Camera Control, as well as all of the capabilities of iOS 18.
+1:37:20
+And iPhone 16 Pro, the most advanced iPhone we've ever made.
+1:37:26
+Powered by A18 Pro, featuring even larger displays, industry-leading Pro camera system with the Camera Control,
+1:37:34
+and studio-quality audio. The innovation and invention these products deliver
+1:37:40
+will continue to deepen the meaningful impact they have on all of our lives.
+1:37:46
+I'm proud of our teams and what they've accomplished, and I can't wait for you to experience these amazing products.
+1:37:53
+Thanks for joining us! Have a great day! ♪ ♪
